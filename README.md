@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashfaaq
-- 👀 I’m interested in Linux, cloud and automation
-- 🌱 I’m currently learning python and Software Defined Networks
-- 💞️ I’m looking to collaborate on twitter
+- 👀 I’m interested in Linux, Digital Forensics, Penetration Testing and Automation.
+- 🌱 I’m currently learning Digital Forensics.
+- 💞️ I’m looking to collaborate on twitter.
 - 📫 How to reach me ...  @TaprobaneLinux
 
 <!---
