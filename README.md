@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashfaaq
-- 👀 I’m interested in Linux, Digital Forensics, Penetration Testing and Automation.
-- 🌱 I’m currently learning Digital Forensics.
+- 👀 I’m interested in Cyber Security, Ariticial Intelligence, Digital Forensics and Penetration Testing.
+- 🌱 I’m currently working on projects related to AI and Cyber security
 - 📫 You can reach out to me on Twitter ...  @TaprobaneLinux
 
 <!---
