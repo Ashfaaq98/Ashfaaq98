@@ -32,10 +32,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-[![GitHub Contribution Graph](https://ghchart.rshah.org/Ashfaaq98)](https://github.com/Ashfaaq98)
-
 ---
 
 ## 🤝 Connect
