@@ -17,6 +17,16 @@
 
 ---
 
+## 🔨 Currently Building
+ 
+| Project | Description |
+|---------|-------------|
+| 🗃️ [Awesome GenAI CyberHub](https://github.com/Ashfaaq98/awesome-genai-cyberhub) | Curated list of LLM-driven cybersecurity resources — papers, tools, models, benchmarks and datasets organized by domain |
+| 🖥️ [OCSF Console IR](https://github.com/Ashfaaq98/ocsf-console-ir) | Terminal-first, OCSF-native incident response console with AI-assisted case management, plugin-based enrichment via Redis Streams, and pluggable LLM providers |
+| 📊 [Cyber LLM Benchmark Hub](https://cyberllmbenchmarkhub.netlify.app/) | Definitive source for cybersecurity LLM performance — 26 benchmarks across 10 categories with model leaderboards and comparison tools |
+ 
+---
+
 ## 🧰 Tech Stack
 
 ### 💻 Languages
