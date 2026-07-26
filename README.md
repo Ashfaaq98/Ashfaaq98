@@ -13,7 +13,7 @@
 
 ---
 
-> 🚀 Passionate about building **AI-driven systems** for cybersecurity — combining LLMs, agentic frameworks, and security engineering to make technology safer for everyone.
+> 🚀 Passionate about building **AI-driven systems** for cybersecurity 
 
 ---
 
@@ -25,73 +25,6 @@
 | 🖥️ [OCSF Console IR](https://github.com/Ashfaaq98/ocsf-console-ir) | Terminal-first, OCSF-native incident response console with AI-assisted case management, plugin-based enrichment via Redis Streams, and pluggable LLM providers |
 | 📊 [Cyber LLM Benchmark Hub](https://cyberllmbenchmarkhub.netlify.app/) | Definitive source for cybersecurity LLM performance — 26 benchmarks across 10 categories with model leaderboards and comparison tools |
  
----
-
-## 🧰 Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![AVR Assembly](https://img.shields.io/badge/AVR_Assembly-A8B9CC?style=flat-square&logo=assemblyscript&logoColor=black)
-
-### 🤖 AI & ML
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-### 🔒Cyber Security
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C62B2B?style=flat-square&logo=shield&logoColor=white)
-![OCSF](https://img.shields.io/badge/OCSF-3A3A3A?style=flat-square&logo=databricks&logoColor=white)
-![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-8B0000?style=flat-square&logo=shield&logoColor=white)
-![Incident Response](https://img.shields.io/badge/Incident_Response-B22222?style=flat-square&logo=pagerduty&logoColor=white)
-![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-1A1A2E?style=flat-square&logo=virustotal&logoColor=white)
-![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-2C2C2C?style=flat-square&logo=hackthebox&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-557C55?style=flat-square&logo=kalilinux&logoColor=white)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
-![AlienVault OTX](https://img.shields.io/badge/AlienVault_OTX-6A0DAD?style=flat-square&logo=alienvault&logoColor=white)
-![Scapy](https://img.shields.io/badge/Scapy-3776AB?style=flat-square&logo=python&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
-
-### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![E2B](https://img.shields.io/badge/E2B_Sandbox-000000?style=flat-square&logo=e2b&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-
----
-
-## 🏅 Certifications
-
-[![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-007934?style=flat-square&logo=isc2&logoColor=white)](https://www.credly.com/badges/1c77ac82-af61-4773-b599-c4acbc6ca88b/public_url)
-[![Blue Team](https://img.shields.io/badge/Security_Blue_Team-Junior_Analyst-1565C0?style=flat-square&logo=shield&logoColor=white)](https://ashfaaq98.github.io/about/)
-[![arcX](https://img.shields.io/badge/arcX-Threat_Intelligence_Analyst-FF6B35?style=flat-square&logo=shield&logoColor=white)](https://arcx.io/verify-certificate?id=3c06cf9145d4a5e3ab601fb4630a9497a954b105&k=152841746ca74fc7a1c4c8cb9f2f60a0)
-[![TCM](https://img.shields.io/badge/TCM_Academy-Practical_Ethical_Hacking-C62B2B?style=flat-square&logo=hackthebox&logoColor=white)](https://ashfaaq98.github.io/about/)
-[![Microsoft](https://img.shields.io/badge/Microsoft-MD--100_Windows_Client-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://www.credly.com/badges/b0052149-c4cb-430c-8e70-dbf9039a107f/public_url)
-
 ---
 
 ## 🚀 Projects
