@@ -4,7 +4,7 @@
 
 ### 🛡️ AI Engineer · Cyber Security Researcher 
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ashfaaq98.github.io-0a0a0a?style=for-the-badge)](https://ashfaaq98.github.io/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ashfaaq.dev-0a0a0a?style=for-the-badge)](https://ashfaaq.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashfaaq98-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ashfaaq98)
 [![Twitter](https://img.shields.io/badge/Twitter-@__ashfaaq__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@/__ashfaaq__)
 [![IEEE Paper](https://img.shields.io/badge/IEEE-Published_2025-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10979487)
@@ -25,7 +25,7 @@
 
 ## 🚀 Projects
 
-> Listed in reverse chronological order. Full details at **[ashfaaq98.github.io/projects](https://ashfaaq98.github.io/projects/)**
+> Listed in reverse chronological order. Full details at **[ashfaaq.dev/projects](https://ashfaaq.dev/projects/)**
 
 ---
 
