@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ashfaaq Farzaan
+# 👋 Hi, I'm Ashfaaq
 
 ### 🛡️ AI Engineer · Cyber Security Researcher 
 
