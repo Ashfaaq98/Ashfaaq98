@@ -25,7 +25,7 @@
 
 ## 🚀 Projects
 
-> Listed in reverse chronological order. Full details at **[ashfaaq.dev/projects](https://ashfaaq.dev/projects/)**
+> Listed in reverse chronological order. Full details at **[ashfaaq.dev/projects](https://www.ashfaaq.dev/projects/)**
 
 ---
 
